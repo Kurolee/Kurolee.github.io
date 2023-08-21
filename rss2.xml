@@ -9,7 +9,7 @@
     <atom:link href="https://kurolee.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个不努力的场景美术想转行做TA</description>
-    <pubDate>Mon, 21 Aug 2023 13:55:15 GMT</pubDate>
+    <pubDate>Mon, 21 Aug 2023 13:56:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -21,14 +21,12 @@
         
         
       <description>&lt;p&gt;欢迎来到我的博客，这里会持续记录我在TA道路上学习的过程并做一些我自己的学习笔记。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
-&lt;/cod</description>
+</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>欢迎来到我的博客，这里会持续记录我在TA道路上学习的过程并做一些我自己的学习笔记。</p><pre><code>More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)</code></pre>]]></content:encoded>
+      <content:encoded><![CDATA[<p>欢迎来到我的博客，这里会持续记录我在TA道路上学习的过程并做一些我自己的学习笔记。</p>]]></content:encoded>
       
       
       
